@@ -1,2 +1,2 @@
-[pyproject.toml.isort]
+[tool.isort]
 line_length = 111
