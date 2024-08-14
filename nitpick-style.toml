@@ -1,3 +1,3 @@
-["setup.cfg".isort]
+[pyproject.toml.isort]
 profile = "black"
-line_length = 88
+line_length = 111
