@@ -1,4 +1,3 @@
-[pyproject.toml.isort]
+["setup.cfg".isort]
 profile = "black"
-line_length = 121
-force_grid_wrap = 1
+line_length = 88
